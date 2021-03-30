@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ProtectId20</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="re_login">Login if you already have an account</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_register">Register</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="welcome">Selamat Datang di Aplikasi ProtectId20</string>
+    <string name="tujuan">Aplikasi ProtectId20 dikembangkan untuk membantu menyalurkan informasi kepada masyarakat mengenai COVID-19. Masalah yang diangkat
+    adalah kurangnya literasi masyarakat terhadap kasus COVID-19, meskipun mengingat sudah banyak situs resmi yang menyebarkan informasi terkait COVID-19,
+    seperti akun resmi SATGAS COVID-19 pada web resmi nya "https://covid19.go.id/"</string>
+    <string name="name">Nama</string>
+    <string name="enter_name">Masukkan nama</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="apakah_itu_covid">COVID-19 (bahasa Inggris: coronavirus disease 2019) adalah penyakit menular yang disebabkan oleh SARS-CoV-2,
+        salah satu jenis koronavirus. Baca Selengkapnya di \n <a href="https://id.wikipedia.org/wiki/Penyakit_koronavirus_2019">https://id.wikipedia.org/wiki/Penyakit_koronavirus_2019</a></string>
+    <string name="apakah_itu_korona">Koronavirus atau coronavirus (istilah populernya: virus korona, virus corona, atau virus Corona) adalah sekumpulan virus dari subfamili Orthocoronavirinae dalam keluarga Coronaviridae dan ordo Nidovirales.
+        Kelompok virus ini yang dapat menyebabkan penyakit pada burung dan mamalia (termasuk manusia).
+        Pada manusia, koronavirus menyebabkan infeksi saluran pernapasan yang umumnya ringan, seperti pilek, meskipun beberapa bentuk penyakit seperti SARS, MERS, dan COVID-19 sifatnya lebih mematikan. Baca Selengkapnya di \n<a href="https://id.wikipedia.org/wiki/Koronavirus">https://id.wikipedia.org/wiki/Koronavirus</a></string>
+    <string name="dampak_dan_gejala">Orang-orang yang terinfeksi mungkin memiliki gejala ringan, seperti demam, batuk, dan kesulitan bernapas.
+        Pada beberapa kejadian juga ditemukan penderita Covid19 bersifat asimtomatik. Gejala diare atau infeksi saluran napas atas (misalnya bersin, pilek, dan sakit tenggorokan) lebih jarang ditemukan.
+        Kasus dapat berkembang menjadi pneumonia berat, kegagalan multiorgan, dan kematian. Baca Selengkapnya di \n<a href="https://www.alodokter.com/virus-corona">https://www.alodokter.com/virus-corona</a></string>
+    <string name="penularan">Virus corona SARS-CoV-2 tampaknya terutama menular dari orang ke orang. Berikut dua cara utama virus ini menular: 1. Virus corona menular antara orang yang berinteraksi dekat satu sama lain (dalam jarak sekitar 6 kaki atau 180 cm).  2. Virus corona menular melalui cairan dari pernapasan yang keluar saat orang yang terinfeksi batuk atau bersin. Cairan pernapasan tersebut bisa menempel di mulut atau hidung orang-orang yang berada di dekatnya atau bisa juga terhirup ke dalam paru-paru.
+    Baca Selengkapnya di \n<a href="https://www.deherba.com/cara-penularan-virus-corona.html">https://www.deherba.com/cara-penularan-virus-corona.html</a></string>
+    <string name="pencegahan">Berikut adalah rekomendasi standar menurut WHO bagi masyarakat umum untuk upaya pencegahan dan pengendalian penularan berbagai infeksi penyakit, termasuk infeksi virus corona: Pencegahan Penularan Virus Corona Menurut WHO: Saat Harus Cuci Tangan Setelah: Batuk atau bersin, Ketika merawat orang sakit, Sebelum, selama, dan sesudah menyiapkan makanan, Sebelum makan, Setelah memakai toilet, Ketika tangan terlihat kotor, Setelah melakukan kontak dengan binatang atau kotoran binatang. Baca Selengkapnya di \n<a href="https://www.deherba.com/pencegahan-penularan-virus-corona.html">https://www.deherba.com/pencegahan-penularan-virus-corona.html</a></string>
+    <string name="satgas">Kunjungi situs resmi Satgas COVID-19 Indonesia</string>
+    <string name="satgasdef">Satgas adalah sebuah unit atau formasi yang dibentuk untuk mengerjakan tugas tertentu. Dalam menangani penyebaran COVID-19 di Indonesia,
+    diciptakan badan yang bernama SATGAS COVID-19 dalam lembaga KPC/PEN, yang merupakan singkatan dari Komite Penanganan COVID-19 dan Pemulihan Ekonomi Nasional.
+    Info mengenai COVID-19 di Indonesia dapat dilihat secara resmi dan terpercaya di situs resmi Satgas COVID-19 Indonesia di \n<a href="https://covid19.go.id/">https://covid19.go.id/</a></string>
+
+</resources>

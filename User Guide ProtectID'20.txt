@@ -1,0 +1,19 @@
+User Guide ProtectID'20
+
+1. Saat membuka aplikasi pertama kali, akan ditampilkan halaman Login.
+2. User harus mengisi Email dan Password agar bisa masuk ke halaman Dashboard aplikasi.
+3. Jika user tidak memiliki akun, bisa melakukan Register terlebih dahulu.
+4. Setelah melakukan Register, User dapat Login kembali untuk masuk ke halaman Dashboard.
+5. Jika user lupa Password akun, terdapat 'Forgot Password' untuk mengganti Password yang lama
+   dengan password terbaru.
+6. Setelah user berhasil Login, akan ditampilkan halaman utama (Home) dengan menu bottom navigation, yaitu
+   Home, Account, Reminder.
+7. Pada halaman Dashboard (Home), akan ditampilkan Info-info tentang Covid-19.
+8. Pada menu Account, akan ditampilkan informasi-informasi pribadi terkait akun dari User.
+9. Pada menu Reminder, User dapat membuat pengingat pekerjaan.
+10. Pekerjaan disini adalah hal-hal yang ingin dilakukan secara rutin (per hari / per minggu / per bulan).
+11. Saat user sudah membuat reminder baru sesuai dengan tanggal dan waktu yang diinginkan, maka 
+    saat tanggal dan waktu sudah sesuai akan muncul sebuah Notifikasi ke device dari User.
+12. Pada pojok kanan atas, terdapat About, Setting, Log Out.
+13. About berisi Deskripsi singkat terkait aplikasi, tujuan aplikasi dibuat.
+14. Jika Log Out diclick maka akun User akan dikeluarkan dan akan kembali ke halaman Login.

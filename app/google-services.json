@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772028587567",
+    "project_id": "protectid20",
+    "storage_bucket": "protectid20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772028587567:android:f7000d67f107de7c30f0da",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.protectid20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772028587567-dfk39q3qndavtgftgd4jt29rc59l9bqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwc-Z3vNS6o2Pr1C4XyTB03y8K6oMXpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772028587567-dfk39q3qndavtgftgd4jt29rc59l9bqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
